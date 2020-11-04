@@ -1,0 +1,12 @@
+Replace Part C1 10uF, 10V in Sheet1.SchDoc with 10uF, 10V from RAK4200.SchLib
+Replace Part C2 100nF, 10 V in Sheet1.SchDoc with 100nF, 10 V from RAK4200.SchLib
+Replace Part C3 100nF, 10 V in Sheet1.SchDoc with 100nF, 10 V from RAK4200.SchLib
+Replace Part P1 HEADER 1X8 in Sheet1.SchDoc with HEADER 1X8 from RAK4200.SchLib
+Replace Part P2 HEADER 1X8 in Sheet1.SchDoc with HEADER 1X8 from RAK4200.SchLib
+Replace Part P3 HEADER1X2 in Sheet1.SchDoc with HEADER1X2 from RAK4200.SchLib
+Replace Part R1 10K0, 63 mW in Sheet1.SchDoc with 10K0, 63 mW from RAK4200.SchLib
+Replace Part TP1 TestPoint-SMD-1MM in Sheet1.SchDoc with TestPoint-SMD-1MM from RAK4200.SchLib
+Replace Part TP2 TestPoint-SMD-1MM in Sheet1.SchDoc with TestPoint-SMD-1MM from RAK4200.SchLib
+Replace Part TP3 TestPoint-SMD-1MM in Sheet1.SchDoc with TestPoint-SMD-1MM from RAK4200.SchLib
+Replace Part U? RAK4200 in Sheet1.SchDoc with RAK4200 from RAK4200.SchLib
+Replace Part X1 SMACONNECTOR_UFL in Sheet1.SchDoc with SMACONNECTOR_UFL from RAK4200.SchLib
